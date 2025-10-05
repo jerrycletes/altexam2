@@ -1,7 +1,7 @@
 {
   "name": "blogging-api",
   "version": "1.0.0",
-  "description": "A comprehensive blogging API with authentication and CRUD operations",
+  "description": "Blogging API",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -9,7 +9,6 @@
     "test": "jest --coverage --detectOpenHandles --forceExit",
     "test:watch": "jest --watch"
   },
-  "keywords": ["blog", "api", "nodejs", "express", "mongodb"],
   "author": "",
   "license": "ISC",
   "dependencies": {
